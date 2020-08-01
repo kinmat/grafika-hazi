@@ -1,0 +1,43 @@
+﻿  framework.cpp
+D:\_D_Doc\GitHub\grafika-hazi\GrafikaHF3\Programs\Skeleton\Skeleton\framework.h(167,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+  Skeleton.cpp
+D:\_D_Doc\GitHub\grafika-hazi\GrafikaHF3\Programs\Skeleton\Skeleton\framework.h(167,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+D:\_D_Doc\GitHub\grafika-hazi\GrafikaHF3\Programs\Skeleton\Skeleton\Skeleton.cpp(62,9): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\_D_Doc\GitHub\grafika-hazi\GrafikaHF3\Programs\Skeleton\Skeleton\Skeleton.cpp(61,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\_D_Doc\GitHub\grafika-hazi\GrafikaHF3\Programs\Skeleton\Skeleton\Skeleton.cpp(397,21): warning C4018: '<': signed/unsigned mismatch
+D:\_D_Doc\GitHub\grafika-hazi\GrafikaHF3\Programs\Skeleton\Skeleton\Skeleton.cpp(407,21): warning C4018: '<': signed/unsigned mismatch
+D:\_D_Doc\GitHub\grafika-hazi\GrafikaHF3\Programs\Skeleton\Skeleton\Skeleton.cpp(411,21): warning C4018: '<': signed/unsigned mismatch
+D:\_D_Doc\GitHub\grafika-hazi\GrafikaHF3\Programs\Skeleton\Skeleton\Skeleton.cpp(415,21): warning C4018: '<': signed/unsigned mismatch
+D:\_D_Doc\GitHub\grafika-hazi\GrafikaHF3\Programs\Skeleton\Skeleton\Skeleton.cpp(429,21): warning C4018: '<': signed/unsigned mismatch
+D:\_D_Doc\GitHub\grafika-hazi\GrafikaHF3\Programs\Skeleton\Skeleton\Skeleton.cpp(431,21): warning C4018: '<': signed/unsigned mismatch
+D:\_D_Doc\GitHub\grafika-hazi\GrafikaHF3\Programs\Skeleton\Skeleton\Skeleton.cpp(434,21): warning C4018: '<': signed/unsigned mismatch
+D:\_D_Doc\GitHub\grafika-hazi\GrafikaHF3\Programs\Skeleton\Skeleton\Skeleton.cpp(436,21): warning C4018: '<': signed/unsigned mismatch
+D:\_D_Doc\GitHub\grafika-hazi\GrafikaHF3\Programs\Skeleton\Skeleton\Skeleton.cpp(439,21): warning C4018: '<': signed/unsigned mismatch
+D:\_D_Doc\GitHub\grafika-hazi\GrafikaHF3\Programs\Skeleton\Skeleton\Skeleton.cpp(441,21): warning C4018: '<': signed/unsigned mismatch
+D:\_D_Doc\GitHub\grafika-hazi\GrafikaHF3\Programs\Skeleton\Skeleton\Skeleton.cpp(444,21): warning C4018: '<': signed/unsigned mismatch
+D:\_D_Doc\GitHub\grafika-hazi\GrafikaHF3\Programs\Skeleton\Skeleton\Skeleton.cpp(446,21): warning C4018: '<': signed/unsigned mismatch
+D:\_D_Doc\GitHub\grafika-hazi\GrafikaHF3\Programs\Skeleton\Skeleton\Skeleton.cpp(460,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\_D_Doc\GitHub\grafika-hazi\GrafikaHF3\Programs\Skeleton\Skeleton\Skeleton.cpp(504,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\_D_Doc\GitHub\grafika-hazi\GrafikaHF3\Programs\Skeleton\Skeleton\Skeleton.cpp(519,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\_D_Doc\GitHub\grafika-hazi\GrafikaHF3\Programs\Skeleton\Skeleton\Skeleton.cpp(598,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\_D_Doc\GitHub\grafika-hazi\GrafikaHF3\Programs\Skeleton\Skeleton\Skeleton.cpp(723,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\_D_Doc\GitHub\grafika-hazi\GrafikaHF3\Programs\Skeleton\Skeleton\Skeleton.cpp(86,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\_D_Doc\GitHub\grafika-hazi\GrafikaHF3\Programs\Skeleton\Skeleton\Skeleton.cpp(505): message : see reference to function template instantiation 'Dnum<vec2> Cos<vec2>(Dnum<vec2>)' being compiled
+D:\_D_Doc\GitHub\grafika-hazi\GrafikaHF3\Programs\Skeleton\Skeleton\Skeleton.cpp(86,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\_D_Doc\GitHub\grafika-hazi\GrafikaHF3\Programs\Skeleton\Skeleton\Skeleton.cpp(85,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\_D_Doc\GitHub\grafika-hazi\GrafikaHF3\Programs\Skeleton\Skeleton\Skeleton.cpp(505): message : see reference to function template instantiation 'Dnum<vec2> Sin<vec2>(Dnum<vec2>)' being compiled
+D:\_D_Doc\GitHub\grafika-hazi\GrafikaHF3\Programs\Skeleton\Skeleton\Skeleton.cpp(85,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\_D_Doc\GitHub\grafika-hazi\GrafikaHF3\Programs\Skeleton\Skeleton\Skeleton.cpp(92,76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\_D_Doc\GitHub\grafika-hazi\GrafikaHF3\Programs\Skeleton\Skeleton\Skeleton.cpp(520): message : see reference to function template instantiation 'Dnum<vec2> Cosh<vec2>(Dnum<vec2>)' being compiled
+D:\_D_Doc\GitHub\grafika-hazi\GrafikaHF3\Programs\Skeleton\Skeleton\Skeleton.cpp(92,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\_D_Doc\GitHub\grafika-hazi\GrafikaHF3\Programs\Skeleton\Skeleton\Skeleton.cpp(91,76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\_D_Doc\GitHub\grafika-hazi\GrafikaHF3\Programs\Skeleton\Skeleton\Skeleton.cpp(93): message : see reference to function template instantiation 'Dnum<vec2> Sinh<vec2>(Dnum<vec2>)' being compiled
+D:\_D_Doc\GitHub\grafika-hazi\GrafikaHF3\Programs\Skeleton\Skeleton\Skeleton.cpp(522): message : see reference to function template instantiation 'Dnum<vec2> Tanh<vec2>(Dnum<vec2>)' being compiled
+D:\_D_Doc\GitHub\grafika-hazi\GrafikaHF3\Programs\Skeleton\Skeleton\Skeleton.cpp(91,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 489 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Skeleton.vcxproj -> D:\_D_Doc\GitHub\grafika-hazi\GrafikaHF3\Programs\Skeleton\bin\Skeleton.exe

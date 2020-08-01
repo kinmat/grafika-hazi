@@ -1,0 +1,22 @@
+﻿  Skeleton.cpp
+D:\cuclik\_suli\bme4\grafika\hazi2\hazi2\Programs\Skeleton\Skeleton\framework.h(167,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+D:\cuclik\_suli\bme4\grafika\hazi2\hazi2\Programs\Skeleton\Skeleton\Skeleton.cpp(51,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\cuclik\_suli\bme4\grafika\hazi2\hazi2\Programs\Skeleton\Skeleton\Skeleton.cpp(337,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\cuclik\_suli\bme4\grafika\hazi2\hazi2\Programs\Skeleton\Skeleton\Skeleton.cpp(348,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\cuclik\_suli\bme4\grafika\hazi2\hazi2\Programs\Skeleton\Skeleton\Skeleton.cpp(366,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\cuclik\_suli\bme4\grafika\hazi2\hazi2\Programs\Skeleton\Skeleton\Skeleton.cpp(377,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\cuclik\_suli\bme4\grafika\hazi2\hazi2\Programs\Skeleton\Skeleton\Skeleton.cpp(381,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\cuclik\_suli\bme4\grafika\hazi2\hazi2\Programs\Skeleton\Skeleton\Skeleton.cpp(386,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\cuclik\_suli\bme4\grafika\hazi2\hazi2\Programs\Skeleton\Skeleton\Skeleton.cpp(388,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\cuclik\_suli\bme4\grafika\hazi2\hazi2\Programs\Skeleton\Skeleton\Skeleton.cpp(420,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\cuclik\_suli\bme4\grafika\hazi2\hazi2\Programs\Skeleton\Skeleton\Skeleton.cpp(425,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\cuclik\_suli\bme4\grafika\hazi2\hazi2\Programs\Skeleton\Skeleton\Skeleton.cpp(429,22): warning C4018: '<': signed/unsigned mismatch
+D:\cuclik\_suli\bme4\grafika\hazi2\hazi2\Programs\Skeleton\Skeleton\Skeleton.cpp(436,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\cuclik\_suli\bme4\grafika\hazi2\hazi2\Programs\Skeleton\Skeleton\Skeleton.cpp(449,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  1 of 293 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Skeleton.vcxproj -> D:\cuclik\_suli\bme4\grafika\hazi2\hazi2\Programs\Skeleton\bin\Skeleton.exe
